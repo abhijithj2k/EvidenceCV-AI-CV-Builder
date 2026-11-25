@@ -1,0 +1,119 @@
+{
+  "user_id": "student_profile_03",
+  "name": "Sofia Williams",
+  "contact": {
+    "email": "sofia.williams@example.com",
+    "phone": "Not provided",
+    "location": "Sydney NSW",
+    "github": "https://github.com/example/student-profile-03",
+    "linkedin": "https://www.linkedin.com/in/example-student-03"
+  },
+  "education": [
+    {
+      "qualification": "Bachelor of Computing Science",
+      "institution": "University of Technology Sydney",
+      "status": "Third year; Estimated end of 2026 academic year",
+      "details": [
+        "32146 Data Visualisation and Visual Analytics",
+        "31251 Data Structures and Algorithms",
+        "31271 Database Fundamentals"
+      ]
+    }
+  ],
+  "skills": [
+    "Python",
+    "SQL",
+    "pandas",
+    "Excel",
+    "Power BI basics",
+    "Matplotlib",
+    "data cleaning",
+    "Git",
+    "data storytelling"
+  ],
+  "skill_evidence": [
+    {
+      "skill": "Python",
+      "source": "Student Services Dashboard"
+    },
+    {
+      "skill": "SQL",
+      "source": "Student Services Dashboard"
+    },
+    {
+      "skill": "pandas",
+      "source": "Student Services Dashboard"
+    },
+    {
+      "skill": "Excel",
+      "source": "Student Services Dashboard"
+    },
+    {
+      "skill": "Power BI basics",
+      "source": "Student Services Dashboard"
+    },
+    {
+      "skill": "Matplotlib",
+      "source": "Search Result Analysis"
+    },
+    {
+      "skill": "data cleaning",
+      "source": "Student Services Dashboard"
+    },
+    {
+      "skill": "Git",
+      "source": "Coursework project repository"
+    },
+    {
+      "skill": "data storytelling",
+      "source": "Dashboard presentation"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Peer Learning Volunteer",
+      "organisation": "Fictional university study program",
+      "description": "Helped first-year students organise programming exercises and explain basic debugging steps.",
+      "employment_type": "Volunteer experience",
+      "source_fact_id": "student_profile_03:experience:1"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Student Services Dashboard",
+      "context": "University analytics project",
+      "description": "Cleaned survey data, designed summary measures and built an interactive dashboard to compare student-service usage across study groups. Used Excel and Power BI basics, then explained the limitations of missing responses in the final presentation.",
+      "technologies": [
+        "Python",
+        "pandas",
+        "SQL",
+        "Excel",
+        "Power BI basics",
+        "data cleaning",
+        "data storytelling"
+      ],
+      "source_fact_id": "student_profile_03:project:1"
+    },
+    {
+      "title": "Search Result Analysis",
+      "context": "43007 Advanced Artificial Intelligence coursework",
+      "description": "Compared retrieved job descriptions for several student goals, used simple plots to inspect the results and summarised which terms caused the search results to change.",
+      "technologies": [
+        "Python",
+        "Matplotlib",
+        "text embeddings",
+        "similarity search",
+        "evaluation"
+      ],
+      "source_fact_id": "student_profile_03:project:2"
+    }
+  ],
+  "achievements": [
+    "Presented a dashboard project at a fictional student showcase; this activity is synthetic and is not a verified UTS record"
+  ],
+  "achievements_reviewed": true,
+  "job_goal": "Machine Learning Engineer for recommendation systems and data products",
+  "summary": "A data and analytics-oriented Computing Science student who enjoys turning messy data into clear findings. Technical experience is strongest in SQL, Python data analysis and visual communication.",
+  "confirmed": true,
+  "source_label": "supplied synthetic profile plus confirmed test job goal and contact placeholder"
+}

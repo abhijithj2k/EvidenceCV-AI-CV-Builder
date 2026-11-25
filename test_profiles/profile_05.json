@@ -1,0 +1,116 @@
+{
+  "user_id": "student_profile_05",
+  "name": "Ethan Nguyen",
+  "contact": {
+    "email": "ethan.nguyen@example.com",
+    "phone": "Not provided",
+    "location": "Sydney NSW",
+    "github": "https://github.com/example/student-profile-05",
+    "linkedin": "https://www.linkedin.com/in/example-student-05"
+  },
+  "education": [
+    {
+      "qualification": "Bachelor of Computing Science – Industry Degree Academy (IDeA)",
+      "institution": "University of Technology Sydney",
+      "status": "Third year; Estimated end of the three-year IDeA study plan",
+      "details": [
+        "31251 Data Structures and Algorithms",
+        "41001 Cloud Computing and Software as a Service",
+        "43030 Professional Practice in Computing"
+      ]
+    }
+  ],
+  "skills": [
+    "Java",
+    "Python",
+    "SQL",
+    "REST APIs",
+    "Git",
+    "Docker basics",
+    "CI basics",
+    "unit testing",
+    "Jira-style task tracking"
+  ],
+  "skill_evidence": [
+    {
+      "skill": "Java",
+      "source": "Team Service Platform"
+    },
+    {
+      "skill": "Python",
+      "source": "43007 Tool-Call Agent Prototype"
+    },
+    {
+      "skill": "SQL",
+      "source": "Team Service Platform"
+    },
+    {
+      "skill": "REST APIs",
+      "source": "Team Service Platform and cadetship"
+    },
+    {
+      "skill": "Git",
+      "source": "Team Service Platform and cadetship"
+    },
+    {
+      "skill": "Docker basics",
+      "source": "Cadetship local development workflow"
+    },
+    {
+      "skill": "CI basics",
+      "source": "Cadetship test pipeline"
+    },
+    {
+      "skill": "unit testing",
+      "source": "Team Service Platform and cadetship"
+    },
+    {
+      "skill": "Jira-style task tracking",
+      "source": "Cadetship sprint work"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Development Cadet",
+      "organisation": "Fictional technology company",
+      "description": "Fixed small backend issues, added automated tests, updated API documentation, used a basic CI test pipeline and joined sprint planning with a software team. The role represents early workplace experience, not senior engineering responsibility.",
+      "employment_type": "UTS IDeA cadetship; synthetic employer",
+      "source_fact_id": "student_profile_05:experience:1"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Team Service Platform",
+      "context": "University studio project",
+      "description": "Worked in a small team on a service platform. Implemented Java backend endpoints, wrote unit tests and helped prepare a short demonstration for non-technical stakeholders.",
+      "technologies": [
+        "Java",
+        "REST APIs",
+        "PostgreSQL",
+        "JUnit",
+        "Git"
+      ],
+      "source_fact_id": "student_profile_05:project:1"
+    },
+    {
+      "title": "Tool-Call Agent Prototype",
+      "context": "43007 Advanced Artificial Intelligence coursework",
+      "description": "Connected a language model to local course tools and logged the model's actions and tool observations in a bounded loop.",
+      "technologies": [
+        "Python",
+        "structured tool calls",
+        "prompt design",
+        "JSON"
+      ],
+      "source_fact_id": "student_profile_05:project:2"
+    }
+  ],
+  "achievements": [
+    "Helped organise a fictional student software showcase; this activity is synthetic and is not a verified UTS record"
+  ],
+  "achievements_reviewed": true,
+  "job_goal": "AI Engineer building agentic AI workflows and production applications",
+  "summary": "A Computing Science student combining university study with a fictional part-time IDeA cadetship. The profile shows early workplace experience in backend development, testing and team delivery without presenting the student as a senior engineer.",
+  "confirmed": true,
+  "source_label": "supplied synthetic profile plus confirmed test job goal and contact placeholder"
+}

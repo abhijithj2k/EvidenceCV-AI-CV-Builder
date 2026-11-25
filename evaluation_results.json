@@ -1,0 +1,137 @@
+[
+  {
+    "profile_id": "student_profile_01",
+    "name": "Maya Chen",
+    "prediction": "graduate_ai_engineer",
+    "prediction_reason": "Graduate title, applied ML, Python and coursework evidence.",
+    "actual_top_three": [
+      {
+        "document_id": "graduate_ai_engineer",
+        "title": "Graduate AI Engineer",
+        "score": 0.4277882946948211,
+        "supporting_excerpt": "About the role: Support applied AI and machine-learning systems for mineral exploration."
+      },
+      {
+        "document_id": "agentic_ai_data_scientist",
+        "title": "AI Engineer / Data Scientist (Agentic AI) | Manager/Senior Manager",
+        "score": 0.33262816453328914,
+        "supporting_excerpt": "Requirements: Strong Python development; modern LLM frameworks and SDKs; prompt engineering; agentic patterns; tool or function calling; structured outputs; RAG evaluation; vector databases; SQL; scientific evaluation; Git; communication; and experience with cloud, Docker, data pipelines, and rel..."
+      },
+      {
+        "document_id": "recommendation_systems_ml_engineer",
+        "title": "Machine Learning Engineer",
+        "score": 0.3313731865098224,
+        "supporting_excerpt": "About the role: Join a Recommendations Engine team that uses machine learning and A/B testing to help customers discover travel options."
+      }
+    ],
+    "expected_in_top_three": true
+  },
+  {
+    "profile_id": "student_profile_02",
+    "name": "Liam Patel",
+    "prediction": "nlp_multimodal_ml_engineer",
+    "prediction_reason": "NLP, text classification, Transformers basics and retrieval coursework.",
+    "actual_top_three": [
+      {
+        "document_id": "nlp_multimodal_ml_engineer",
+        "title": "Machine Learning Engineer, NLP & Multimodal AI",
+        "score": 0.4690500340510015,
+        "supporting_excerpt": "Responsibilities: Apply NLP to preprocess and analyse text; develop and fine-tune large language and multimodal models; build end-to-end pipelines for data ingestion, cleaning, feature engineering, training, evaluation, deployment, and monitoring; deploy models with attention to scalability, reli..."
+      },
+      {
+        "document_id": "graduate_ai_engineer",
+        "title": "Graduate AI Engineer",
+        "score": 0.3515189314183417,
+        "supporting_excerpt": "Requirements: A degree in artificial intelligence, data science, computer science, information technology, or a related science or engineering discipline; up to two years of professional experience; knowledge of machine-learning fundamentals, statistics, data analysis, agentic AI, LLMs, RAG, and..."
+      },
+      {
+        "document_id": "agentic_ai_data_scientist",
+        "title": "AI Engineer / Data Scientist (Agentic AI) | Manager/Senior Manager",
+        "score": 0.3356180733012837,
+        "supporting_excerpt": "Responsibilities: Build multi-step agents; design typed and testable tool ecosystems; orchestrate multi-agent systems; build stateful LLM workflows; engineer RAG pipelines with chunking, embeddings, vector search, hybrid retrieval, and grounding; produce structured outputs with function calling;..."
+      }
+    ],
+    "expected_in_top_three": true
+  },
+  {
+    "profile_id": "student_profile_03",
+    "name": "Sofia Williams",
+    "prediction": "recommendation_systems_ml_engineer",
+    "prediction_reason": "Data analysis, search-result evaluation and an explicit recommendation-systems goal.",
+    "actual_top_three": [
+      {
+        "document_id": "recommendation_systems_ml_engineer",
+        "title": "Machine Learning Engineer",
+        "score": 0.4464823895999205,
+        "supporting_excerpt": "Responsibilities: Develop recommendation and search systems; implement, test, and optimise machine-learning models; process and clean large datasets for model training; work with data engineers; and use hypothesis-driven experiments to improve products."
+      },
+      {
+        "document_id": "graduate_ai_engineer",
+        "title": "Graduate AI Engineer",
+        "score": 0.4134873843772661,
+        "supporting_excerpt": "Requirements: A degree in artificial intelligence, data science, computer science, information technology, or a related science or engineering discipline; up to two years of professional experience; knowledge of machine-learning fundamentals, statistics, data analysis, agentic AI, LLMs, RAG, and..."
+      },
+      {
+        "document_id": "nlp_multimodal_ml_engineer",
+        "title": "Machine Learning Engineer, NLP & Multimodal AI",
+        "score": 0.3747319663707507,
+        "supporting_excerpt": "Responsibilities: Apply NLP to preprocess and analyse text; develop and fine-tune large language and multimodal models; build end-to-end pipelines for data ingestion, cleaning, feature engineering, training, evaluation, deployment, and monitoring; deploy models with attention to scalability, reli..."
+      }
+    ],
+    "expected_in_top_three": true
+  },
+  {
+    "profile_id": "student_profile_04",
+    "name": "Noah Ibrahim",
+    "prediction": "healthcare_ml_engineer",
+    "prediction_reason": "Linux, testing, APIs, Docker basics and a goal focused on reliable operational platforms.",
+    "actual_top_three": [
+      {
+        "document_id": "healthcare_ml_engineer",
+        "title": "Machine Learning Engineer",
+        "score": 0.5316667107530245,
+        "supporting_excerpt": "Requirements: Two to three or more years of software engineering experience with applied machine learning; strong knowledge of machine-learning fundamentals, feature engineering, and evaluation; experience deploying and operating models; Python, SQL, and Linux; batch or streaming systems; and fam..."
+      },
+      {
+        "document_id": "computer_vision_engineer",
+        "title": "AI Computer Vision Engineer",
+        "score": 0.3783347486707429,
+        "supporting_excerpt": "Responsibilities: Design computer-vision solutions; build and optimise models for video analytics; train, validate, and improve models using video datasets; develop Python applications, APIs, and supporting services; deploy workloads on edge devices and cloud platforms; support proof-of-concept i..."
+      },
+      {
+        "document_id": "graduate_ai_engineer",
+        "title": "Graduate AI Engineer",
+        "score": 0.3202823609363715,
+        "supporting_excerpt": "About the role: Support applied AI and machine-learning systems for mineral exploration."
+      }
+    ],
+    "expected_in_top_three": true
+  },
+  {
+    "profile_id": "student_profile_05",
+    "name": "Ethan Nguyen",
+    "prediction": "agentic_ai_engineer",
+    "prediction_reason": "Tool-call agent, Python, APIs, CI/testing and an agentic-workflow goal.",
+    "actual_top_three": [
+      {
+        "document_id": "agentic_ai_engineer",
+        "title": "AI Engineer",
+        "score": 0.42948366282267847,
+        "supporting_excerpt": "Responsibilities: Deliver end-to-end AI solutions; develop agentic workflows and autonomous components using Python, Langflow, and modern AI tooling; manage the full lifecycle from requirements and stakeholder engagement through to testing and deployment; embed AI components into existing applica..."
+      },
+      {
+        "document_id": "agentic_ai_data_scientist",
+        "title": "AI Engineer / Data Scientist (Agentic AI) | Manager/Senior Manager",
+        "score": 0.41953201974169,
+        "supporting_excerpt": "Requirements: Strong Python development; modern LLM frameworks and SDKs; prompt engineering; agentic patterns; tool or function calling; structured outputs; RAG evaluation; vector databases; SQL; scientific evaluation; Git; communication; and experience with cloud, Docker, data pipelines, and rel..."
+      },
+      {
+        "document_id": "rag_agent_engineer",
+        "title": "AI Engineer",
+        "score": 0.3926863690670315,
+        "supporting_excerpt": "Requirements: A master's degree or above in computer science, artificial intelligence, data systems, or a related field; three or more years of research or engineering experience; experience with LLMs, RAG, AI agents, or intelligent data systems; and strong Python programming."
+      }
+    ],
+    "expected_in_top_three": true
+  }
+]

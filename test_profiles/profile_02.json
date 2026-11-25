@@ -1,0 +1,112 @@
+{
+  "user_id": "student_profile_02",
+  "name": "Liam Patel",
+  "contact": {
+    "email": "liam.patel@example.com",
+    "phone": "Not provided",
+    "location": "Sydney NSW",
+    "github": "https://github.com/example/student-profile-02",
+    "linkedin": "https://www.linkedin.com/in/example-student-02"
+  },
+  "education": [
+    {
+      "qualification": "Bachelor of Computing Science",
+      "institution": "University of Technology Sydney",
+      "status": "Third year; Estimated end of 2026 academic year",
+      "details": [
+        "31250 Introduction to Data Analytics",
+        "41043 Natural Language Processing",
+        "31251 Data Structures and Algorithms"
+      ]
+    }
+  ],
+  "skills": [
+    "Python",
+    "pandas",
+    "NumPy",
+    "scikit-learn",
+    "PyTorch basics",
+    "SQL",
+    "Hugging Face Transformers basics",
+    "Git",
+    "Jupyter Notebook"
+  ],
+  "skill_evidence": [
+    {
+      "skill": "Python",
+      "source": "Coursework Retrieval Assistant"
+    },
+    {
+      "skill": "pandas",
+      "source": "Text Classification Study"
+    },
+    {
+      "skill": "NumPy",
+      "source": "NLP coursework exercises"
+    },
+    {
+      "skill": "scikit-learn",
+      "source": "Text Classification Study"
+    },
+    {
+      "skill": "PyTorch basics",
+      "source": "NLP coursework exercises"
+    },
+    {
+      "skill": "SQL",
+      "source": "Introduction to Data Analytics coursework"
+    },
+    {
+      "skill": "Hugging Face Transformers basics",
+      "source": "NLP coursework exercises"
+    },
+    {
+      "skill": "Git",
+      "source": "Coursework project repositories"
+    },
+    {
+      "skill": "Jupyter Notebook",
+      "source": "Both coursework projects"
+    }
+  ],
+  "experience": [],
+  "projects": [
+    {
+      "title": "Coursework Retrieval Assistant",
+      "context": "43007 Advanced Artificial Intelligence coursework",
+      "description": "Built a small retrieval-augmented assistant over a local collection of job descriptions. Compared different prompts, inspected retrieved evidence and documented cases where the answer was uncertain.",
+      "technologies": [
+        "Python",
+        "embeddings",
+        "FAISS",
+        "prompt design",
+        "LLM API",
+        "Git"
+      ],
+      "source_fact_id": "student_profile_02:project:1"
+    },
+    {
+      "title": "Text Classification Study",
+      "context": "Natural Language Processing coursework",
+      "description": "Prepared a labelled text dataset, trained a baseline classifier and compared precision and recall across two model settings. Also completed small exercises with PyTorch and Transformer models without claiming production deployment.",
+      "technologies": [
+        "Python",
+        "pandas",
+        "NumPy",
+        "scikit-learn",
+        "PyTorch basics",
+        "Hugging Face Transformers basics",
+        "evaluation"
+      ],
+      "source_fact_id": "student_profile_02:project:2"
+    }
+  ],
+  "achievements": [
+    "Volunteer helper at a fictional UTS AI and Data Science Society workshop; this activity is synthetic and is not a verified UTS record"
+  ],
+  "achievements_reviewed": true,
+  "job_goal": "Machine Learning Engineer specialising in NLP and multimodal AI",
+  "summary": "A Computing Science student focused on natural language processing and practical LLM applications. Strongest evidence comes from reproducible coursework notebooks and a small retrieval project.",
+  "confirmed": true,
+  "source_label": "supplied synthetic profile plus confirmed test job goal and contact placeholder"
+}
